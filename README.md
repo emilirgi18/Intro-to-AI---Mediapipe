@@ -44,3 +44,7 @@ Lalu di dalam loop ini, proses berikut akan terus berulang hingga kita pencet to
 9. Ulangi proses hingga user/kita menekan tombol q
 
 <img src="https://github.com/emilirgi18/Intro-to-AI---Mediapipe/blob/main/Untitled%20Diagram.drawio.png?raw=true">
+
+## Example
+
+[![Contoh Hasil](https://img.youtube.com/vi/507ZVx5Vl1g/0.jpg)](https://www.youtube.com/watch?v=507ZVx5Vl1g)
